@@ -14,7 +14,7 @@ The system is developed using the official [**ICBHI 2017 Respiratory Sound Datab
 
 ## Feature Extraction Techniques
 
-To capture the complex frequency patterns of lung anomalies, the pipeline extracts three primary audio features using `librosa`:
+To capture the complex frequency patterns of lung anomalies, the pipeline extracts three primary audio features using librosa:
 1. **MFCC (Mel-Frequency Cepstral Coefficients):** Captures the power spectrum of the audio to model the overall timbre of breathing sounds.
 2. **Chroma STFT (Short-Time Fourier Transform):** Maps the audio energy onto the distinct chromatic musical pitches to capture tonal variations.
 3. **mSpec (Mel Spectrogram):** Converts frequencies to the non-linear Mel scale to closely mimic human auditory perception of sound anomalies.
