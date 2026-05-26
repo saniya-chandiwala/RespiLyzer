@@ -21,9 +21,9 @@ To capture the complex frequency patterns of lung anomalies, the pipeline extrac
 
 ## How It Works
 
-1. Upload .wav files of respiratory sounds to predict underlying lung conditions.
-2. Ensemble Learning Framework integrates deep learning models trained on distinct audio feature extraction methods for robust evaluation.
-3. Then Granular Model Breakdown displays individual predictions from each feature extraction approach alongside a final primary diagnosis classification.
+* Upload .wav files of respiratory sounds to predict underlying lung conditions.
+* Ensemble Learning Framework integrates deep learning models trained on distinct audio feature extraction methods for robust evaluation.
+* Then Granular Model displays individual predictions from each feature extraction approach alongside a final primary diagnosis classification.
 
 ## Tech Stack
 
